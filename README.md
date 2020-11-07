@@ -4,6 +4,8 @@ I'm Brian. I love programming and working with data. Check out my personal websi
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=brianpinto91&repo=brianpinto91.github.io&theme=radical" />
 </a>
+
+
 - 🔭 I’m currently working on building and deploying machine learing apps on heroku and google cloud 
 - 🌱 I’m currently learning full stack development, upskilling my machine learning and data science skills, python packaging, CI and CD
 - 💬 Ask me about python, machine learning, computer vision, and control systems

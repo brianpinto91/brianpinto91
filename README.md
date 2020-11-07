@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm Brian. I love programming and working with data. Check out my profile at [here] (https://brianpinto91.github.io/)
+I'm Brian. I love programming and working with data. Check out my profile at [here](https://brianpinto91.github.io/)
 
 - 🔭 I’m currently working on building and deploying machine learing apps on heroku and google cloud 
 - 🌱 I’m currently learning full stack development, upskilling my machine learning and data science skills, python packaging, CI and CD

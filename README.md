@@ -13,9 +13,9 @@ I'm Brian. I love programming and working with data. Check out my personal websi
 - 😻 with Linux
 - ⚽🏸📚🎵 in my free time
 
-[![Srujan's github stats](https://github-readme-stats.vercel.app/api?username=brianpinto91&count_private=true&show_icons=true&theme=radical)](https://github.com/brianpinto91/github-readme-stats)  
+[![Brian's github stats](https://github-readme-stats.vercel.app/api?username=brianpinto91&count_private=true&show_icons=true&theme=radical)]()  
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brianpinto91&theme=radical)](https://github.com/brianpinto91/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brianpinto91&theme=radical)]()
 <!--
 **brianpinto91/brianpinto91** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

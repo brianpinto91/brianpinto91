@@ -1,16 +1,12 @@
 >Any fool can write code that a computer can understand. Good programmers write code that humans can understand - Martin Fowler
 
 ### Hi there 👋
-I'm Brian. Check out my personal website:
-<a href="https://brianpinto91.github.io/">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=brianpinto91&repo=brianpinto91.github.io&theme=radical" />
-</a>
 
-- 🔭 I’m currently working on building and deploying machine learing apps with cloud technologies. 
-- 🌱 I’m currently learning full stack development, upskilling my machine learning and data science skills
-- 💬 Ask me about python, machine learning, computer vision, and control systems
-- :computer: Interested in learning cyber-security
+Welcome to my GitHub page! Here you will find my projects mainly related to Robotics, Machine Learning, Computer Vision, and Control Systems.
+
+- :mortar_board: M.Sc. Mechatronics from Technische Universität Hamburg (TUHH)
+- 🔭 Currently working with cloud technologies (GoogleCloud and Heroku) to train and deploy ML models. 
+- 🌱 Learning advanced bash scripting and Web frameworks for python. Also interested in cyber security and blockchain.
 - ⚽🏸📚🎵 in my free time
 
 [![Brian's github stats](https://github-readme-stats.vercel.app/api?username=brianpinto91&count_private=true&show_icons=true&theme=radical)]()  
